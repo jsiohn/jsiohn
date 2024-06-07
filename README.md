@@ -1,5 +1,5 @@
 <h1 align="center">Salutations! I am John Siordia</h1>
-<h3 align="center">An aspiring Sofware Developer</h3>
+<h3 align="center">An aspiring Software Developer</h3>
 
 - 🔭 I’m currently working on [se_project-aroundtheus](https://github.com/jsiohn/se_project_aroundtheus)
 
