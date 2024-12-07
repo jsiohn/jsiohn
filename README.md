@@ -1,8 +1,6 @@
 <h1 align="center">Greetings! I'm John Siordia</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsiohn&label=Profile%20views&color=0e75b6&style=flat" alt="jsiohn" /> </p>
-
 - 🔭 I’m currently working on [Pkmn Team Builder](https://github.com/jsiohn/pkmnTeamBuilder-frontend)
 
 - 🌱 Next, I plan to learn **React Native**
