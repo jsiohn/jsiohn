@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pkmn Team Builder](https://github.com/jsiohn/pkmnTeamBuilder-frontend)
 
-- 🌱 Next, I plan to learn **React Native**
+- 🌱 Next, I plan to learn **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jsiohn](https://github.com/jsiohn)
 
