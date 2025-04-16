@@ -1,7 +1,7 @@
 <h1 align="center">Greetings! I'm John Siordia</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
-- 🔭 I’m currently working on [Pkmn Team Builder](https://github.com/jsiohn/pkmnTeamBuilder-frontend)
+- 🔭 I’m currently working on [AHA Clinic](https://github.com/jsiohn/ahaClinic)
 
 - 🌱 Next, I plan to learn **TypeScript**
 
